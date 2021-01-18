@@ -1,0 +1,17 @@
+*.class
+*.log
+
+target/
+lib_managed/
+src_managed/
+project/boot/
+.bsp/
+.history
+.cache
+.orig
+
+### JetBrains template
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion
+
+## Directory-based project format:
+.idea/
